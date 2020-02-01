@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VectorAssets</string>
+    <string name="name">Name</string>
+    <string name="please_enter_your_number">Please enter your number</string>
+    <string name="enter_your_website">Enter your website</string>
+    <string name="enter_your_location">Enter your location</string>
+    <string name="contacts_app">Contacts App</string>
+    <string name="create_new_contact">Create New Contact</string>
+    <string name="enter_your_number">Enter your number</string>
+    <string name="enter_website">Enter website</string>
+</resources>
